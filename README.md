@@ -1,6 +1,6 @@
 <div align="center"><h1> Movies App<img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h1>
 
-An application can help users discover new movies that they may enjoy, and can be a useful tool for finding films to watch.
+An application can help users discover new movies that they may enjoy.
 
 </div>
 
@@ -33,7 +33,7 @@ An application can help users discover new movies that they may enjoy, and can b
 1. Clone the repo
 
 ```sh
-git clone
+git clone https://github.com/nada-abuzaid/Movies.git
 ```
 
 2. Download the project then run following commands.
